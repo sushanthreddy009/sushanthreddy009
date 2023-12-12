@@ -29,4 +29,4 @@ I'm a passionate computer science enthusiast on a journey to explore the world o
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sushanth-reddy-86b139239/). I'm always open to new opportunities and exciting collaborations!
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=sushanthreddy009/sushanthreddy009)
+
