@@ -2,9 +2,7 @@
 
 I'm a passionate computer science enthusiast on a journey to explore the world of technology. Here's a bit about me:
 
-- 🔭 I’m currently working on exciting projects to sharpen my skills.
-- 🌱 I’m learning new things every day, with a focus on machine learning and web development.
-- 👯 I’m looking to collaborate on open-source projects and innovative ideas.
+
 - 💬 Ask me about anything related to tech, and I'll be happy to help!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sushanth-reddy-86b139239/)
 
