@@ -25,7 +25,7 @@ I'm a passionate computer science enthusiast on a journey to explore the world o
 
 ### Projects I'm Proud Of
 
-- 🚀 [Academic Record Storage Using Blockchain](https://github.com/sushanthreddy009/Academic_record_storage_using_blockchain)
+- 🚀 [Academic Record Storage Using Blockchain]((https://github.com/sushanthreddy009/Academic-Record-Storage))
 - 🍔 [Food Delivery Application (MERN)](https://github.com/sushanthreddy009/Food_Delivery_Application)
 - 🌈 [Grayscale Image Colorization](https://github.com/sushanthreddy009/Grayscale_Image_Colorization)
 - 🌿 [Plant Disease Detection](https://github.com/sushanthreddy009/PlantDiseaseDetection_Project)
