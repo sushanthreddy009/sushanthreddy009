@@ -27,8 +27,8 @@ I'm a passionate computer science enthusiast on a journey to explore the world o
 
 - 🚀 [Academic Record Storage Using Blockchain](https://github.com/sushanthreddy009/Academic-Record-Storage)
 - 🍔 [Food Delivery Application (MERN)](https://github.com/sushanthreddy009/Food_Delivery_Application)
-- 🌈 [Grayscale Image Colorization](https://github.com/sushanthreddy009/Grayscale_Image_Colorization)
 - 🌿 [Plant Disease Detection](https://github.com/sushanthreddy009/plant-disease-detection)
+- - 🌈 [Graduate-Talent-Pipeline-Tracker](https://github.com/sushanthreddy009/Graduate-Talent-Pipeline-Tracker)
 
 ### Let's Connect!
 
